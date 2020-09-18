@@ -4,5 +4,9 @@ Full featured multi-player online indian Rummy game
 ## Features
 - Supports 2-10 Players 
 - Multiple game types: 320 Full/Countall, 240 Full/Countall, Sevens, Singles, and Free Style 
+- Visual treat with multiple themes 
 - Score Sheet (score calculation in different styles) 
-- Interactive Chat 
+- Live Chat with other players 
+- Secured with random private key 
+
+## Screenshots 
