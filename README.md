@@ -7,6 +7,7 @@ Full featured multi-player online indian Rummy game
 - Visual treat with multiple themes 
 - Score Sheet (score calculation in different styles) 
 - Live Chat with other players 
-- Secured with random private key 
+- Secured with random private key for every game/round
 
 ## Screenshots 
+![Alt text](/image.png?raw=true "Sample page")
